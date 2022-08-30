@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "Audi-Dashboard"; /* Project id 3618271 */
+  src: url('iconfont.woff2?t=1661838517900') format('woff2'),
+       url('iconfont.woff?t=1661838517900') format('woff'),
+       url('iconfont.ttf?t=1661838517900') format('truetype');
+}
+
+.Audi-Dashboard {
+  font-family: "Audi-Dashboard" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+  content: "\e605";
+}
+
+.icon-add-one:before {
+  content: "\e606";
+}
+
+.icon-calendar-dot:before {
+  content: "\e607";
+}
+
+.icon-file-pdf:before {
+  content: "\e608";
+}
+
+.icon-calculator:before {
+  content: "\e609";
+}
+
+.icon-download:before {
+  content: "\e60a";
+}
+
+.icon-close-one:before {
+  content: "\e60b";
+}
+
+.icon-down:before {
+  content: "\e60c";
+}
+
+.icon-analysis:before {
+  content: "\e60d";
+}
+
+.icon-left:before {
+  content: "\e60e";
+}
+
+.icon-system:before {
+  content: "\e60f";
+}
+
+.icon-config:before {
+  content: "\e610";
+}
+
+.icon-up:before {
+  content: "\e611";
+}
+
+.icon-glasses:before {
+  content: "\e612";
+}
+
+.icon-right:before {
+  content: "\e613";
+}
+
+.icon-reduce-two:before {
+  content: "\e614";
+}
+
+.icon-align-text-both-one:before {
+  content: "\e615";
+}
+
+.icon-user:before {
+  content: "\e616";
+}
+
+.icon-time:before {
+  content: "\e617";
+}
+
+.icon-search:before {
+  content: "\e618";
+}
+
+.icon-setting-two:before {
+  content: "\e619";
+}
+
+.icon-space-colony:before {
+  content: "\e61a";
+}
+
+.icon-round-socket:before {
+  content: "\e61b";
+}
+
+.icon-file-txt:before {
+  content: "\e61c";
+}
+

@@ -1,0 +1,177 @@
+{
+  "id": "3618271",
+  "name": "Audi-Dashboard",
+  "font_family": "Audi-Dashboard",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31546582",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "31546583",
+      "name": "add-one",
+      "font_class": "add-one",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "31546584",
+      "name": "calendar-dot",
+      "font_class": "calendar-dot",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "31546585",
+      "name": "file-pdf",
+      "font_class": "file-pdf",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "31546586",
+      "name": "calculator",
+      "font_class": "calculator",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "31546587",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "31546588",
+      "name": "close-one",
+      "font_class": "close-one",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "31546589",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "31546590",
+      "name": "analysis",
+      "font_class": "analysis",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "31546591",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "31546592",
+      "name": "system",
+      "font_class": "system",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "31546593",
+      "name": "config",
+      "font_class": "config",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "31546594",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "31546595",
+      "name": "glasses",
+      "font_class": "glasses",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "31546596",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "31546597",
+      "name": "reduce-two",
+      "font_class": "reduce-two",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "31546598",
+      "name": "align-text-both-one",
+      "font_class": "align-text-both-one",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "31546599",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "31546600",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "31546601",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "31546602",
+      "name": "setting-two",
+      "font_class": "setting-two",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "31546603",
+      "name": "space-colony",
+      "font_class": "space-colony",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "31546604",
+      "name": "round-socket",
+      "font_class": "round-socket",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "31546605",
+      "name": "file-txt",
+      "font_class": "file-txt",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
