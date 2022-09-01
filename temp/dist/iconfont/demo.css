@@ -23,11 +23,12 @@
 
 .nav-tabs .nav-more {
   position: absolute;
-  right: 0;
+  right: 120px;
   bottom: 0;
   height: 42px;
   line-height: 42px;
-  color: #666;
+  color: #000;
+  text-decoration: underline;
 }
 
 #tabs {
@@ -61,7 +62,8 @@
 /* 页面布局 */
 .main {
   padding: 30px 100px;
-  width: 960px;
+  /* width: 960px; */
+  width: 860px;
   margin: 0 auto;
 }
 
