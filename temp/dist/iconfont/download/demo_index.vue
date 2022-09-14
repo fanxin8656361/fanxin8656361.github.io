@@ -2,11 +2,12 @@
   <div class="main-box">
     <div class="main">
       <h1 class="logo">
-        <a href="https://www.iconfont.cn/" title="iconfont 首页" target="_blank" rel="noopener norefferrer">
+        <!-- <a href="https://www.iconfont.cn/" title="iconfont 首页" target="_blank" rel="noopener norefferrer">
           <img width="200"
             src="https://img.alicdn.com/imgextra/i3/O1CN01Mn65HV1FfSEzR6DKv_!!6000000000514-55-tps-228-59.svg"
             alt="icon" />
-        </a>
+        </a> -->
+        <img src="./iconfont.png" alt="icon" />
       </h1>
       <div class="nav-tabs">
         <ul id="tabs" class="dib-box">
@@ -749,6 +750,7 @@ export default {
   .main .logo {
     margin-top: 0;
     height: auto;
+    font-size: 80px;
   }
 
   .main .logo a {
