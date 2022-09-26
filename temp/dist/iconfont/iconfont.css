@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Audi-Dashboard"; /* Project id 3618271 */
-  src: url('iconfont.woff2?t=1663568808249') format('woff2'),
-       url('iconfont.woff?t=1663568808249') format('woff'),
-       url('iconfont.ttf?t=1663568808249') format('truetype');
+  src: url('iconfont.woff2?t=1664154971432') format('woff2'),
+       url('iconfont.woff?t=1664154971432') format('woff'),
+       url('iconfont.ttf?t=1664154971432') format('truetype');
 }
 
 .Audi-Dashboard {
@@ -11,6 +11,26 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chart-pie:before {
+  content: "\e631";
+}
+
+.icon-factory-building:before {
+  content: "\e632";
+}
+
+.icon-network-tree:before {
+  content: "\e633";
+}
+
+.icon-edit:before {
+  content: "\e634";
+}
+
+.icon-user-business:before {
+  content: "\e635";
 }
 
 .icon-a-doublearrow02Stroke:before {

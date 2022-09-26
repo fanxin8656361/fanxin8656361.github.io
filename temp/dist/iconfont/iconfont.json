@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "31966784",
+      "name": "chart-pie",
+      "font_class": "chart-pie",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "31966785",
+      "name": "factory-building",
+      "font_class": "factory-building",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "31966787",
+      "name": "network-tree",
+      "font_class": "network-tree",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "31966788",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "31966789",
+      "name": "user-business",
+      "font_class": "user-business",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
       "icon_id": "31899303",
       "name": "doublearrow02 (Stroke)",
       "font_class": "a-doublearrow02Stroke",
