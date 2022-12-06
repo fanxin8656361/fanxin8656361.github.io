@@ -27,6 +27,17 @@
           <ul class="icon_lists dib-box">
           
             <li class="dib">
+              <span class="icon Audi-Dashboard">&#xec93;</span>
+                <div class="name">preview-close</div>
+                <div class="code-name">&amp;#xec93;</div>
+              </li>
+          
+            <li class="dib">
+              <span class="icon Audi-Dashboard">&#xec94;</span>
+                <div class="name">preview-open</div>
+                <div class="code-name">&amp;#xec94;</div>
+              </li>
+            <li class="dib">
               <span class="icon Audi-Dashboard">&#xec43;</span>
               <div class="name">guide-board</div>
               <div class="code-name">&amp;#xec43;</div>
@@ -8651,7 +8662,23 @@
         </div>
         <div class="content font-class" style="display: block;">
           <ul class="icon_lists dib-box">
+            <li class="dib">
+            <span class="icon Audi-Dashboard icon-preview-close1"></span>
+            <div class="name">
+              preview-close
+            </div>
+            <div class="code-name">.icon-preview-close1
+            </div>
+          </li>
           
+          <li class="dib">
+            <span class="icon Audi-Dashboard icon-preview-open1"></span>
+            <div class="name">
+              preview-open
+            </div>
+            <div class="code-name">.icon-preview-open1
+            </div>
+          </li>
           <li class="dib">
               <svg class="icon svg-icon" aria-hidden="true">
                 <use xlink:href="#icon-guide-board"></use>
@@ -20118,7 +20145,21 @@
         </div>
         <div class="content symbol">
           <ul class="icon_lists dib-box">
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-preview-close1"></use>
+                </svg>
+                <div class="name">preview-close</div>
+                <div class="code-name">#icon-preview-close1</div>
+            </li>
           
+            <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#icon-preview-open1"></use>
+                </svg>
+                <div class="name">preview-open</div>
+                <div class="code-name">#icon-preview-open1</div>
+            </li>
           <li class="dib">
               <svg class="icon svg-icon" aria-hidden="true">
                 <use xlink:href="#icon-guide-board"></use>
