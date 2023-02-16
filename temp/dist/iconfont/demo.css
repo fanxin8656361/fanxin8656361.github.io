@@ -62,7 +62,7 @@
 
 /* 页面布局 */
 .main {
-  padding: 30px 100px;
+  padding: 30px 100px 0;
   /* width: 960px; */
   /* width: 860px; */
   margin: 0 auto;
