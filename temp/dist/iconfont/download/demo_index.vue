@@ -7,7 +7,7 @@
             src="https://img.alicdn.com/imgextra/i3/O1CN01Mn65HV1FfSEzR6DKv_!!6000000000514-55-tps-228-59.svg"
             alt="icon" />
         </a> -->
-        <!-- <img src="./iconfont.png" alt="icon" /> -->
+        <img src="./iconfont.png" alt="icon" />
       </h1>
       <div class="nav-tabs">
         <ul id="tabs" class="dib-box">
