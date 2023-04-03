@@ -7,7 +7,7 @@
             src="https://img.alicdn.com/imgextra/i3/O1CN01Mn65HV1FfSEzR6DKv_!!6000000000514-55-tps-228-59.svg"
             alt="icon" />
         </a> -->
-        <img src="./iconfont.png" alt="icon" />
+        <!-- <img src="./iconfont.png" alt="icon" /> -->
       </h1>
       <div class="nav-tabs">
         <ul id="tabs" class="dib-box">
@@ -609,11 +609,11 @@
               <div class="code-name">&amp;#xe67a;</div>
             </li>
           
-            <li class="dib">
+            <!-- <li class="dib">
               <span class="icon Audi-Dash">&#xe67b;</span>
               <div class="name">ellipsis</div>
               <div class="code-name">&amp;#xe67b;</div>
-            </li>
+            </li> -->
           
             <li class="dib">
               <span class="icon Audi-Dash">&#xe67c;</span>
@@ -1560,14 +1560,14 @@
               </div>
             </li>
           
-            <li class="dib">
+            <!-- <li class="dib">
               <span class="icon Audi-Dash Audi-Dashellipsis"></span>
               <div class="name">
                 ellipsis
               </div>
               <div class="code-name">.Audi-Dashellipsis
               </div>
-            </li>
+            </li> -->
           
             <li class="dib">
               <span class="icon Audi-Dash Audi-Dashmenu-XS-dark"></span>
@@ -2408,13 +2408,13 @@
               <div class="code-name">#Audi-Dashresize-increase</div>
             </li>
           
-            <li class="dib">
+            <!-- <li class="dib">
               <svg class="icon svg-icon" aria-hidden="true">
                 <use xlink:href="#Audi-Dashellipsis"></use>
               </svg>
               <div class="name">ellipsis</div>
               <div class="code-name">#Audi-Dashellipsis</div>
-            </li>
+            </li> -->
           
             <li class="dib">
               <svg class="icon svg-icon" aria-hidden="true">
