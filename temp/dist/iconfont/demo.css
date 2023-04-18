@@ -23,8 +23,8 @@
 
 .nav-tabs .nav-more {
   position: absolute;
-  /* right: 120px; */
-  left: 55%;
+  right: 20px;
+  /* left: 55%; */
   bottom: 0;
   height: 42px;
   line-height: 42px;
@@ -113,6 +113,10 @@
 
 .icon_lists li .code-name {
   line-height: 1.2;
+  display: none;
+  /* text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap; */
 }
 
 .icon_lists .icon {

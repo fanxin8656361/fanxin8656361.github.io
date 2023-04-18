@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Audi-Dash"; /* Project id 3865318 */
-  src: url('iconfont.woff2?t=1676293590478') format('woff2'),
-       url('iconfont.woff?t=1676293590478') format('woff'),
-       url('iconfont.ttf?t=1676293590478') format('truetype');
+  src: url('iconfont.woff2?t=1681699111752') format('woff2'),
+       url('iconfont.woff?t=1681699111752') format('woff'),
+       url('iconfont.ttf?t=1681699111752') format('truetype');
 }
 
 .Audi-Dash {
@@ -11,6 +11,18 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.Audi-Dasha-Frame3923996:before {
+  content: "\eaaf";
+}
+
+.Audi-Dashclose1:before {
+  content: "\eaae";
+}
+
+.Audi-Dasha-Frame3923890:before {
+  content: "\eaad";
 }
 
 .Audi-Dashclose-one:before {
@@ -51,10 +63,6 @@
 
 .Audi-Dashadjacent-item:before {
   content: "\e681";
-}
-
-.Audi-Dashadd-one-1:before {
-  content: "\e682";
 }
 
 .Audi-Dashadd-one:before {
@@ -127,10 +135,6 @@
 
 .Audi-Dashcard-two:before {
   content: "\e694";
-}
-
-.Audi-Dashdelete-1:before {
-  content: "\e695";
 }
 
 .Audi-Dashbookmark-one:before {
