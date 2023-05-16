@@ -19,13 +19,17 @@
 /* tabs */
 .nav-tabs {
   position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 88px;
 }
 
 .nav-tabs .nav-more {
-  position: absolute;
-  right: 20px;
+  /* position: absolute; */
+  /* right: 98px; */
   /* left: 55%; */
-  bottom: 0;
+  /* bottom: 0; */
+  margin-right: 45px;
   height: 42px;
   line-height: 42px;
   color: #000;
@@ -62,12 +66,39 @@
 
 /* 页面布局 */
 .main {
-  padding: 30px 100px 0;
+  padding: 30px 0 0;
   /* width: 960px; */
   /* width: 860px; */
   margin: 0 auto;
+
+}
+.main .line {
+  margin-top: 40px;
+  padding: 0 200px 0 0;
+  font-family: "PingFang SC";
+  font-style: normal;
+  color: #1a1a1a;
 }
 
+.label {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #000;
+}
+.desc {
+  margin: 8px 0 48px;
+  font-family: "PingFang SC";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #1a1a1a;
+}
 .main .logo {
   color: #333;
   text-align: left;
@@ -103,6 +134,7 @@
 }
 
 .icon_lists li {
+  cursor: pointer!important;
   width: 100px;
   margin-bottom: 10px;
   margin-right: 20px;
@@ -157,6 +189,7 @@
   color: #666;
   font-size: 14px;
   line-height: 1.8;
+  margin-top: 40px;
 }
 
 .highlight {
