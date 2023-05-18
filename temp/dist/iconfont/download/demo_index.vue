@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="main-box">
-      <div class="page-type">原子</div>
+      <p class="page-type">原子</p>
       <div class="title1" :id="catalogue[0]">
         图标<span style="padding: 0 10px">/</span>Icon
       </div>
@@ -2381,7 +2381,7 @@ export default {
   margin-top:8px;
 }
     .photo {
-      margin-top: 23px;
+      margin-top: 48px;
       width: 100%;
       height: 384px;
     }

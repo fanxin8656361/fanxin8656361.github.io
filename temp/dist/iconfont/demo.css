@@ -21,7 +21,7 @@
   position: relative;
   display: flex;
   justify-content: space-between;
-  padding-right: 88px;
+  /* padding-right: 88px; */
 }
 
 .nav-tabs .nav-more {
