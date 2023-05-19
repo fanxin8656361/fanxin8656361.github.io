@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="main-box">
-      <p class="page-type">原子</p>
-      <div class="title1" :id="catalogue[0]">
+      <p class="page-type" :id="catalogue[0]">原子</p>
+      <div class="title1">
         图标<span style="padding: 0 10px">/</span>Icon
       </div>
       <p class="content1" v-text="content1"></p>
@@ -2373,11 +2373,12 @@ export default {
   height: 100%;
   display: flex;
   min-height: 100%;
-  padding: 0 24px;
+  padding: 0 0 0 24px;
   background: #fff;
   .main-box {
     position: relative;
-    flex: 1;
+    width:100%;
+    max-width:1600px;
     font-family: "PingFang SC";
     font-style: normal;
     color: #191919;
