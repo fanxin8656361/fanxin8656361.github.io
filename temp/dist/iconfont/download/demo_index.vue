@@ -669,6 +669,11 @@
                 <div class="name">settings</div>
                 <div class="code-name">&amp;#xe67f;</div>
               </li>
+              <li class="dib">
+                <span class="icon Audi-Dash">&#xeab2;</span>
+                <div class="name">index-finger</div>
+                <div class="code-name">&amp;#xeab2;</div>
+              </li>
             </ul>
         
           </div>
@@ -1341,6 +1346,11 @@
                 <span class="icon Audi-Dash Audi-Dashsettings"></span>
                 <div class="name">settings</div>
                 <div class="code-name">.Audi-Dashsettings</div>
+              </li>
+              <li class="dib">
+                <span class="icon Audi-Dash Audi-Dashindex-finger"></span>
+                <div class="name">index-finger</div>
+                <div class="code-name">.Audi-Dashindex-finger</div>
               </li>
 
               <li class="dib">
@@ -2085,6 +2095,13 @@
                 </svg>
                 <div class="name">settings</div>
                 <div class="code-name">#Audi-Dashsettings</div>
+              </li>
+              <li class="dib">
+                <svg class="icon svg-icon" aria-hidden="true">
+                  <use xlink:href="#Audi-Dashindex-finger"></use>
+                </svg>
+                <div class="name">index-finger</div>
+                <div class="code-name">#Audi-Dashindex-finger</div>
               </li>
             </ul>
         

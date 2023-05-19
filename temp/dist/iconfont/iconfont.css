@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Audi-Dash"; /* Project id 3865318 */
-  src: url('iconfont.woff2?t=1681699111752') format('woff2'),
-       url('iconfont.woff?t=1681699111752') format('woff'),
-       url('iconfont.ttf?t=1681699111752') format('truetype');
+  src: url('iconfont.woff2?t=1684420274954') format('woff2'),
+       url('iconfont.woff?t=1684420274954') format('woff'),
+       url('iconfont.ttf?t=1684420274954') format('truetype');
 }
 
 .Audi-Dash {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.Audi-Dashindex-finger:before {
+  content: "\eab2";
 }
 
 .Audi-Dasha-Frame3923996:before {
@@ -391,10 +395,6 @@
 
 .Audi-Dashswipe:before {
   content: "\e6d5";
-}
-
-.Audi-Dashtickets-checked:before {
-  content: "\e6d6";
 }
 
 .Audi-Dashsetting-two:before {

@@ -6,6 +6,13 @@
   "description": "Audi-Dash",
   "glyphs": [
     {
+      "icon_id": "35578082",
+      "name": "index-finger",
+      "font_class": "index-finger",
+      "unicode": "eab2",
+      "unicode_decimal": 60082
+    },
+    {
       "icon_id": "35011121",
       "name": "Treeselect",
       "font_class": "a-Frame3923996",
@@ -669,13 +676,6 @@
       "font_class": "swipe",
       "unicode": "e6d5",
       "unicode_decimal": 59093
-    },
-    {
-      "icon_id": "33804019",
-      "name": "tickets-checked",
-      "font_class": "tickets-checked",
-      "unicode": "e6d6",
-      "unicode_decimal": 59094
     },
     {
       "icon_id": "33804020",
