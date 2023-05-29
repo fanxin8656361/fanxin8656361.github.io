@@ -47,8 +47,8 @@
     奥迪的信号颜色仅用于通知,警告,和状态信息,如果需要一个颜色区分,红色可用于块,而黄色和绿色可能只用于排版和图标。
 */
   --color-info-red: #eb0d3f; /*信号红*/
-  --color-info-green: #eb0d3f; /*信号绿*/
-  --color-info-yellow: #0da20d; /*信号黄*/
+  --color-info-green: #0DA20D; /*信号绿*/
+  --color-info-yellow: #FFAA00; /*信号黄*/
   --color-info-red-d: #fd2c4e; /*信号红-暗*/
   --color-info-green-d: #ffaa00; /*信号绿-暗*/
   --color-info-yellow-d: #ffaa00; /*信号黄-暗*/
